@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+img {
+	max-width: 100%;
+}
+.person {
+	width: 33.33%;
+	padding: 5%;
+	display: inline-block;
+	vertical-align: top;
+}
+.container {
+	width: 100%;
+}
